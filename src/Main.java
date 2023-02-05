@@ -1,4 +1,4 @@
-class Test{
+class Main{
     public static void main(String args[]){
         //print statement
         System.out.print("hello world!");//does not go to next line
